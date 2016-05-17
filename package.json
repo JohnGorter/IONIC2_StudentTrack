@@ -1,0 +1,28 @@
+{
+  "name": "ionic2_studenttrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "reveal.js": "^3.3.0"
+  },
+  "devDependencies": {
+    "lite-server":"*",
+    "typescript": "*"
+  },
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server -c lite-server.conf.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnGorter/IONIC2_StudentTrack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnGorter/IONIC2_StudentTrack/issues"
+  },
+  "homepage": "https://github.com/JohnGorter/IONIC2_StudentTrack#readme"
+}
