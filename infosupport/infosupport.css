@@ -7,7 +7,7 @@
  */
 @font-face {
   font-family: 'Calibri';
-  src: url("http://code.mokapedia.net/cdn/font/blob/c2cb754d94b4f2dd5dca70e1f14b1f103bae60e7/ttf-mokapedia-favorites/CALIBRI.TTF") format("truetype");
+  src: url("https://github.com/riezebosch/reveal.js-theme-infosupport/raw/master/Calibri.ttf") format("truetype");
 }
 /*********************************************
  * GLOBAL STYLES
