@@ -13,7 +13,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("infosupport/waaier.svg");
+  background-image: url("waaier.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right bottom;
@@ -351,7 +351,7 @@ body {
  *********************************************/
 .reveal::after {
   content: "";
-  background-image: url(infosupport/logo.svg);
+  background-image: url(logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
