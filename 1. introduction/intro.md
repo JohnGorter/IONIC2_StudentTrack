@@ -7,7 +7,7 @@
  
 ## Bla slide
  
-> Best quote ever.
+> "Best quote ever"
  
 Note: speaker notes FTW!
 
